@@ -7,5 +7,5 @@
            remote="ing"
            sync-j="1" />
 
-  <project path="test_01" name="test_01"  />
+	   <project path="teat_01" name="teat_01"  />
 </manifest>
