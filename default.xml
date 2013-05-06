@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="ing"
+           fetch=".."
+           review="https://review.ingenic.cn/" />
+  <default revision="master"
+           remote="ing"
+           sync-j="1" />
+
+  <project path="test_01" name="test_01"  />
+  <project path="ingenic_android" name="ingenic_android"  />
+</manifest>
