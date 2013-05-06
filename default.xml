@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="ing"
-			fetch="https://https://github.com/ingeniclbh"
+			fetch="https://github.com/ingeniclbh"
            review="https://review.ingenic.cn/" />
   <default revision="master"
            remote="ing"
